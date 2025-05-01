@@ -1,4 +1,11 @@
-## Hi there 👋
+- 👋🏾 I work toward tech that's more equitable, sustainable and helpful (including AI).
+- 🔭 As a historian and researcher, I also work toward creating and using data to support and measure all of this.
+- 🌱 Lately I've been learning a lot about cybersecurity and machine learning, including LLMs, their and how they might be helpful or harmful for the global majority.
+- 👯‍♀️ I look to collaborate on creating safer and more helpful apps & services; talks and presentations on tech, impact, and equity; and events (real & virtual) that help people and communities navigate the opportunities and modern challenges of tech, security, and equity.
+- 🤔 I welcome help with all of this! As a learner and a leader in several organizations and initiatives, my goal is to learn and look out for the people who aren't present as we make tech and other decisions that impact them.
+- 💬 Ask me about speaking, workshops, and community initiatives I support relating to technology and equity. Ask me about Afrofuturism!
+- 😄 Pronouns: she / her
+- ⚡ Fun fact: A long time ago, I worked in tech as QA. In a sense, I'm working on very broad-scale kinds of "QA" now, too.
 
 <!--
 **BreezeHarper/BreezeHarper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
